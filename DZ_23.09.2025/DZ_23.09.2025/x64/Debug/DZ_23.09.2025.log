@@ -1,0 +1,4 @@
+﻿  DZ_23.09.2025.cpp
+C:\Users\arg50\Downloads\IT STEP\LESSONS\C++\DZ\DZ_23.09.2025\DZ_23.09.2025.cpp(7,6): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+C:\Users\arg50\Downloads\IT STEP\LESSONS\C++\DZ\DZ_23.09.2025\DZ_23.09.2025.cpp(9,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  DZ_23.09.2025.vcxproj -> C:\Users\arg50\Downloads\IT STEP\LESSONS\C++\DZ\DZ_23.09.2025\x64\Debug\DZ_23.09.2025.exe
